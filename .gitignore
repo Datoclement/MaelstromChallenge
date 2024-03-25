@@ -1,0 +1,9 @@
+/target
+/maelstrom.tar.bz2
+/maelstrom
+/store
+*.log
+
+# RustRover
+.DS_Store
+.idea
